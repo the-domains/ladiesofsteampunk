@@ -2,27 +2,27 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://www.magcloud.com/browse/issue/463004'
+isBasedOnUrl: 'http://www.magcloud.com/browse/issue/436260'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - steampunk
-  - sic-fi
+  - unwoman
+  - kato
   - neo-victorian
+  - sci-fi
+  - veronique
   - pin-up
-  - vespertine
   - ladies
   - boudoir
-  - goth
-  - bookmark
-  - offline
-description: 'Ladies of Steampunk Magazine, second issue, featuring Fate, Vespertine Circus, My Steampunk Army, and more!'
-datePublished: '2015-10-25T21:24:34.644Z'
-dateModified: '2015-10-25T21:24:31.726Z'
+  - chevalier
+description: 'Ladies of Steampunk Magazine, premier issue, featuring Kato, Unwoman, Butterfly Frillies, and more!'
+datePublished: '2015-10-25T21:25:17.558Z'
+dateModified: '2015-10-25T21:25:14.202Z'
 author: []
 related: []
 app_links: []
-title: 'Magazines | Ladies of Steampunk Magazine: Volume...'
+title: 'Magazines | Ladies of Steampunk Magazine: Issue 1'
 sourcePath: _posts/2015-10-25-magazines-or-ladies-of-steampunk-magazine-volume.md
 published: true
 authors: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Magazines | Ladies of Steampunk Magazine: Volume...</h1><p>Ladies of Steampunk Magazine, second issue, featuring Fate, Vespertine Circus, My Steampunk Army, and more!</p><img src="https://s3.amazonaws.com/storage3.magcloud.com/image/1a0199d877799543b3cb6d2c87218da8.jpg" /></article>
+<article style=""><h1>Magazines | Ladies of Steampunk Magazine: Volume...</h1><p>Ladies of Steampunk Magazine, premier issue, featuring Kato, Unwoman, Butterfly Frillies, and more!</p><img src="https://s3.amazonaws.com/storage1.magcloud.com/image/0ca4a06dbfbe3447903309fc46bc6b1c.jpg" /></article>
