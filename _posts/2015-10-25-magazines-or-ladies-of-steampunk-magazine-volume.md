@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.magcloud.com/browse/issue/436260'
 inLanguage: en
 starred: true
 keywords:
@@ -16,13 +15,13 @@ keywords:
   - ladies
   - boudoir
   - chevalier
-description: 'Ladies of Steampunk Magazine, premier issue, featuring Kato, Unwoman, Butterfly Frillies, and more!'
-datePublished: '2015-10-25T21:25:17.558Z'
-dateModified: '2015-10-25T21:25:14.202Z'
+description: ''
+datePublished: '2015-10-25T22:57:34.403Z'
+dateModified: '2015-10-25T21:31:05.216Z'
 author: []
 related: []
 app_links: []
-title: 'Magazines | Ladies of Steampunk Magazine: Issue 1'
+title: Ladies of Steampunk Magazines
 sourcePath: _posts/2015-10-25-magazines-or-ladies-of-steampunk-magazine-volume.md
 published: true
 authors: []
@@ -31,6 +30,7 @@ publisher:
   domain: www.magcloud.com
   url: 'http://www.magcloud.com'
   favicon: 'http://www.magcloud.com/favicon.ico'
+url: ladies-of-steampunk-magazines/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
