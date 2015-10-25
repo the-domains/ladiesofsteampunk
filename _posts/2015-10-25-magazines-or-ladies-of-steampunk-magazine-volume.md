@@ -2,23 +2,23 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://www.magcloud.com/browse/issue/520618'
+isBasedOnUrl: 'http://www.magcloud.com/browse/issue/494184'
 inLanguage: en
 starred: false
 keywords:
-  - nea
-  - frenchy
-  - dune
-  - punk
-  - sci-fi
-  - mysteampunkarmy
-  - comartemisaesthetic
-  - artemis
+  - steampunk
+  - neo-victorian
+  - pin-up
+  - michion
   - kato
-  - katsuni
-description: 'Greetings, and welcome to our March 2013 issue! This month you&#39;ll find: an interview with Jody Ellen, Kato &amp;amp; Katsuni, Artemis Aesthetic, Nea Dune, Frenchy &amp;amp; The Punk, and more!'
-datePublished: '2015-10-25T21:22:02.347Z'
-dateModified: '2015-10-25T21:21:55.115Z'
+  - shibari
+  - boudoir
+  - isabella
+  - bookmark
+  - offline
+description: 'Happy New Year! Welcome to the first issue of 2013! Inside, you&#39;ll find: an interview with Kelly Shibari, My Steampunk Army, Kato &amp;amp; Michion, the return of Captain Isabella, and more!'
+datePublished: '2015-10-25T21:23:09.794Z'
+dateModified: '2015-10-25T21:23:06.341Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Magazines | Ladies of Steampunk Magazine: Volume...</h1><p>Greetings, and welcome to our March 2013 issue! This month you&amp;#39;ll find: an interview with Jody Ellen, Kato &amp;amp;amp; Katsuni, Artemis Aesthetic, Nea Dune, Frenchy &amp;amp;amp; The Punk, and more!</p><img src="https://s3.amazonaws.com/storage.magcloud.com/image/e86a29e63cc59641ab2b560ce9868f40.jpg" /></article>
+<article style=""><h1>Magazines | Ladies of Steampunk Magazine: Volume...</h1><p>Happy New Year! Welcome to the first issue of 2013! Inside, you&amp;#39;ll find: an interview with Kelly Shibari, My Steampunk Army, Kato &amp;amp;amp; Michion, the return of Captain Isabella, and more!</p><img src="https://s3.amazonaws.com/storage5.magcloud.com/image/b52823039732a5448e388d4d1deff3a3.jpg" /></article>
