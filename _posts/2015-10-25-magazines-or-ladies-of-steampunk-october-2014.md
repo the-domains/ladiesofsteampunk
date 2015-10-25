@@ -1,25 +1,28 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.magcloud.com'
-  name: MagCloud
-  favicon: 'http://www.magcloud.com/favicon.ico'
-  domain: www.magcloud.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
 keywords: []
 description: Ladies of Steampunk - October 2014
+datePublished: '2015-10-25T23:43:40.911Z'
+dateModified: '2015-10-25T23:43:34.326Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.magcloud.com/browse/issue/811259'
 title: 'Magazines | Ladies of Steampunk - October 2014'
-datePublished: '2015-10-25T23:37:21.277Z'
-dateModified: '2015-10-25T23:13:46.117Z'
 sourcePath: _posts/2015-10-25-magazines-or-ladies-of-steampunk-october-2014.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: MagCloud
+  domain: www.magcloud.com
+  url: 'http://www.magcloud.com'
+  favicon: 'http://www.magcloud.com/favicon.ico'
+url: magazines-or-ladies-of-steampunk-october-2014/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Magazines &amp;vert; Ladies of Steampunk - October 2014</h1><p>Ladies of Steampunk - October 2014</p><img src="https://s3.amazonaws.com/storage5.magcloud.com/image/ba39ef9c17c62840bb0318f11d5a41b3.jpg" /></article>
+<article style=""><h1>Magazines | Ladies of Steampunk - October 2014</h1><p>Ladies of Steampunk - October 2014</p><img src="https://s3.amazonaws.com/storage5.magcloud.com/image/ba39ef9c17c62840bb0318f11d5a41b3.jpg" /></article>
