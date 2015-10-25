@@ -17,8 +17,8 @@ keywords:
   - boudoir
   - chevalier
 description: 'Ladies of Steampunk Magazine, premier issue, featuring Kato, Unwoman, Butterfly Frillies, and more!'
-datePublished: '2015-10-25T21:17:43.258Z'
-dateModified: '2015-10-25T21:02:16.692Z'
+datePublished: '2015-10-25T21:19:11.023Z'
+dateModified: '2015-10-25T21:19:07.005Z'
 author: []
 related: []
 app_links: []
