@@ -1,6 +1,6 @@
 name: LadiesOfSteampunk
 favicon: null
-layout_spectrum: 0.48128
+layout_spectrum: 0.24335
 typography_spectrum: 0.80972
 title: Beautiful Ladies - Designs - Steampunk
 cta:
@@ -24,6 +24,6 @@ color:
     - '#ffffff'
   brandStrength: 0.75
   lightness: 0.9544903510250151
-  saturation: 0.5625
+  saturation: 0.375
   rhythmicContrast: 0.9303563244175166
 purpose: []
