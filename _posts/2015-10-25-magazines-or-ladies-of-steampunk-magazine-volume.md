@@ -16,8 +16,8 @@ keywords:
   - boudoir
   - chevalier
 description: ''
-datePublished: '2015-10-25T22:57:34.403Z'
-dateModified: '2015-10-25T21:31:05.216Z'
+datePublished: '2015-10-25T23:27:51.234Z'
+dateModified: '2015-10-25T23:27:37.343Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Magazines | Ladies of Steampunk Magazine: Volume...</h1><p>Ladies of Steampunk Magazine, premier issue, featuring Kato, Unwoman, Butterfly Frillies, and more!</p><img src="https://s3.amazonaws.com/storage1.magcloud.com/image/0ca4a06dbfbe3447903309fc46bc6b1c.jpg" /></article>
+<article style=""><h1>Ladies of Steampunk Magazine: Issue 1</h1><p>Ladies of Steampunk Magazine, premier issue, featuring Kato, Unwoman, Butterfly Frillies, and more!</p><img src="https://s3.amazonaws.com/storage1.magcloud.com/image/0ca4a06dbfbe3447903309fc46bc6b1c.jpg" /></article>
