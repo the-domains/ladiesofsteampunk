@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Ladies of Steampunk - October 2014
-datePublished: '2015-10-25T23:43:40.911Z'
-dateModified: '2015-10-25T23:43:34.326Z'
+datePublished: '2015-10-25T23:47:23.010Z'
+dateModified: '2015-10-25T23:47:20.402Z'
 author: []
 related: []
 app_links: []
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Magazines | Ladies of Steampunk - October 2014</h1><p>Ladies of Steampunk - October 2014</p><img src="https://s3.amazonaws.com/storage5.magcloud.com/image/ba39ef9c17c62840bb0318f11d5a41b3.jpg" /></article>
+<article style=""><h1>LoSP Magazine - October 2014</h1><p>Ladies of Steampunk - October 2014</p><img src="https://s3.amazonaws.com/storage5.magcloud.com/image/ba39ef9c17c62840bb0318f11d5a41b3.jpg" /></article>
