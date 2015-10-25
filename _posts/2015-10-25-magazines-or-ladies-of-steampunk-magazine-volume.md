@@ -2,23 +2,23 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://www.magcloud.com/browse/issue/494184'
+isBasedOnUrl: 'http://www.magcloud.com/browse/issue/463004'
 inLanguage: en
 starred: false
 keywords:
   - steampunk
+  - sic-fi
   - neo-victorian
   - pin-up
-  - michion
-  - kato
-  - shibari
+  - vespertine
+  - ladies
   - boudoir
-  - isabella
+  - goth
   - bookmark
   - offline
-description: 'Happy New Year! Welcome to the first issue of 2013! Inside, you&#39;ll find: an interview with Kelly Shibari, My Steampunk Army, Kato &amp;amp; Michion, the return of Captain Isabella, and more!'
-datePublished: '2015-10-25T21:23:09.794Z'
-dateModified: '2015-10-25T21:23:06.341Z'
+description: 'Ladies of Steampunk Magazine, second issue, featuring Fate, Vespertine Circus, My Steampunk Army, and more!'
+datePublished: '2015-10-25T21:24:34.644Z'
+dateModified: '2015-10-25T21:24:31.726Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Magazines | Ladies of Steampunk Magazine: Volume...</h1><p>Happy New Year! Welcome to the first issue of 2013! Inside, you&amp;#39;ll find: an interview with Kelly Shibari, My Steampunk Army, Kato &amp;amp;amp; Michion, the return of Captain Isabella, and more!</p><img src="https://s3.amazonaws.com/storage5.magcloud.com/image/b52823039732a5448e388d4d1deff3a3.jpg" /></article>
+<article style=""><h1>Magazines | Ladies of Steampunk Magazine: Volume...</h1><p>Ladies of Steampunk Magazine, second issue, featuring Fate, Vespertine Circus, My Steampunk Army, and more!</p><img src="https://s3.amazonaws.com/storage3.magcloud.com/image/1a0199d877799543b3cb6d2c87218da8.jpg" /></article>
